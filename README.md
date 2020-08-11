@@ -19,15 +19,4 @@ In this project we explored data about movie production using pandas to work wit
 - What genres are the most profitable?
 - Does runtime affect movie gross?
 
-# Data Cleaning
-#We begin by importing all the packages we will need to read and clean the datasets, analyze the data, and finally make visualizations 
-import pandas as pd
-import seaborn as sns
-import numpy as np
-import matplotlib.pyplot as plt
-import plotly.express as px
-
-# Research Question Answers
-
-## Do IMDb user ratings relate to profit or budget?
 
